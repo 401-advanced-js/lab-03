@@ -1,19 +1,16 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## FS
 
-### Author: Student/Group Name
+### Author: Spencer Hirata
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [repo](https://github.com/401-advanced-js/lab-03)
+* [travis](https://travis-ci.com/401-advanced-js/lab-03)
 
 #### Documentation
-* [swagger](http://xyz.com) (API assignments only)
-* [jsdoc](http://xyz.com) (All assignments)
+* [jsdoc]() (All assignments)
 
 ### Modules
 #### `modulename.js`
@@ -26,17 +23,18 @@ Usage Notes or examples
 Usage Notes or examples
 
 ### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
 
 #### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
-  
+* `npm install fs faker`
+
+#### Assignment 1: edit-file.js
+
+* `node edit-file.js ./files/test.js`
+
+#### Assignment 2: reader.js
+
+
+
 #### Tests
 * How do you run tests?
 * What assertions were made?
