@@ -10,7 +10,7 @@
 * [travis](https://travis-ci.com/401-advanced-js/lab-03)
 
 #### Documentation
-* [jsdoc]() (All assignments)
+* [jsdoc]()
 
 ### Modules
 #### `modulename.js`
@@ -19,8 +19,6 @@
 ###### `foo(thing) -> string`
 Usage Notes or examples
 
-###### `bar(array) -> array`
-Usage Notes or examples
 
 ### Setup
 
@@ -29,16 +27,18 @@ Usage Notes or examples
 
 #### Assignment 1: edit-file.js
 
-* `node edit-file.js ./files/test.js`
+* `node edit-file.js ./files/test.txt`
 
 #### Assignment 2: reader.js
 
-
+* `node index.js ./files/1.txt ./files/2.txt ./files/3.txt`
 
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* `npm test`~ THIS IS ONLY FOR THE reader-fixed.js FILE
+
+* Tests if the file is 'bad.txt' which is completely useless
+
+* Tests if any of the file paths don't exist and returns null
 
 #### UML
-Link to an image of the UML for your application and response to events
+![Screenshot](./assets/fsUML.jpg)
