@@ -7,7 +7,7 @@
 
 ### Links and Resources
 * [repo](https://github.com/401-advanced-js/lab-03)
-* [travis](https://travis-ci.com/401-advanced-js/lab-03)
+[![Build Status](https://travis-ci.com/401-advanced-js/lab-03.svg?branch=master)](https://travis-ci.com/401-advanced-js/lab-03)
 
 #### Documentation
 * [jsdoc]()
