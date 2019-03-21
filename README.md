@@ -1,13 +1,14 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## FS
+## File reader system
 
 ### Author: Spencer Hirata
 
 ### Links and Resources
 * [repo](https://github.com/401-advanced-js/lab-03)
-[![Build Status](https://travis-ci.com/401-advanced-js/lab-03.svg?branch=master)](https://travis-ci.com/401-advanced-js/lab-03)
+
+* [![Build Status](https://travis-ci.com/401-advanced-js/lab-03.svg?branch=master)](https://travis-ci.com/401-advanced-js/lab-03)
 
 #### Documentation
 * [jsdoc]()
